@@ -1,8 +1,8 @@
 # Illtracker device
 ![Logoilltracker](/illtrackerlogo.png)
 ## Sumário
-- [Introdução](#Problemas-na-hora-do-checkup)
-- [A importância do projeto](#a-nossa-importância)
+- [Problemas na hora do checkup](#Problemas-na-hora-do-checkup)
+- [A nossa proposta:](#a-nossa-importância)
 - [Exemplos do projeto](#Imagem-exemplificando-o-projeto-montado)
 - [Planos Para o futuro](#Melhorias-futuras)
 
