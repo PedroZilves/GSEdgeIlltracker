@@ -17,7 +17,7 @@ Em meio ao dinâmico universo dos serviços de saúde, surge uma necessidade cru
 
 
 ### Imagem exemplificando o projeto montado 
-![Imagem Arduino Montado](/Hardware.png)
+![Imagem Arduino Montado](/hardware.png)
 ### Código do arduino comentado
     Deve se alterar o SSID e a senha da rede como o projeto está no seu começo de desenvolvimento
 [Link para Código ESP32](/illtracker.ino)
