@@ -8,6 +8,7 @@
 - [Planos Para o futuro](#instalação)
 - [Configurações](#configurações)
 - [Como executar](#como-executar)
+- [Link-Wokwi](#link-simulação-wokwi)
 ## Problemas na hora do checkup
 Quando vamos a um hospital quando nos sentimos mal, explicamos o que estamos sentindo no momento, mas quando o médico pergunta sobre mais detalhes ou também se sentimos alguns outros sintomas em outras datas, a nossa memória falhar.
 
@@ -36,3 +37,7 @@ No arquivo [illtracker.ino](/illtracker.ino), você pode configurar o seguinte:
 1. Caso faça pelo Wokwi, apenas mantenha o SSID e a senha como estão. Caso esteja montando uma versão física, configure para o Wi-Fi de sua preferência.
 2. Basta apertar o botão para registrar as medidas em nosso sistema.
 3. Ao usar o aplicativo, será usado a medida mais recente e ficará salvo em um banco de dados.
+
+
+## Link simulação Wokwi
+    https://wokwi.com/projects/382044826407717889
