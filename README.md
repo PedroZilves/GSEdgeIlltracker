@@ -5,8 +5,9 @@
 - [Problemas na hora do checkup](#problemas-na-hora-do-checkup)
 - [A nossa proposta](#a-nossa-proposta)
 - [Exemplos do projeto](#imagem-exemplificando-o-projeto-montado)
-- [Planos Para o futuro](#melhorias-futuras)
-
+- [Planos Para o futuro](#instalação)
+- [Configurações](#configurações)
+- [Como executar](#como-executar)
 ## Problemas na hora do checkup
 Quando vamos a um hospital quando nos sentimos mal, explicamos o que estamos sentindo no momento, mas quando o médico pergunta sobre mais detalhes ou também se sentimos alguns outros sintomas em outras datas, a nossa memória falhar.
 
