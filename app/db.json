@@ -1,0 +1,65 @@
+{
+    "clientes": [
+        {
+            "id": 1,
+            "nome": "pedro",
+            "email": "pedro.zilves@gmail.com",
+            "cep": "02020-010",
+            "senha": "0904",
+            "medico": false
+        },
+        {
+            "id": 2,
+            "nome": "beatriz",
+            "email": "bnb@hotmail.com",
+            "cep": "02020-010",
+            "senha": "0701",
+            "medico": true
+        },
+        {
+            "id": 3,
+            "nome": "Henrique",
+            "email": "henrique@gmail.com",
+            "cep": "07135-313",
+            "senha": "123",
+            "medico": false
+        }
+    ],
+    "illTracker": {
+        "id": 1,
+        "heartrate": 93,
+        "temperature": 33,
+        "dataHora": "22/11/2023 22:14:05"
+    },
+    "registros": [
+        {
+            "nome_usuario": "pedro",
+            "data_hora": "22/11/2023 21:39:17",
+            "sintomas": [
+                "gonorreia"
+            ]
+        },
+        {
+            "nome_usuario": "pedro",
+            "data_hora": "22/11/2023 21:39:17",
+            "sintomas": [
+                "dor de dente",
+                "sangue nos zoio"
+            ]
+        },
+        {
+            "nome_usuario": "pedro",
+            "data_hora": "22/11/2023 22:14:05",
+            "sintomas": [
+                "amor"
+            ]
+        },
+        {
+            "nome_usuario": "pedro",
+            "data_hora": "22/11/2023 22:14:05",
+            "sintomas": [
+                "dor de dente"
+            ]
+        }
+    ]
+}
