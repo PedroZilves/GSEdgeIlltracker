@@ -1,5 +1,5 @@
 # Clean Drain device by dreamClean
-![LogoDreamClean](/logo.png)
+![Logoilltracker](/illtrackerlogo.png)
 ## Sumário
 - [Introdução](#Problemas-na-hora-do-checkup)
 - [A importância do projeto](#a-nossa-importância)
